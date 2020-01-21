@@ -1,1 +1,1 @@
-http://samtcmu.github.io/grid
+http://samtcmu.github.io/grid/
